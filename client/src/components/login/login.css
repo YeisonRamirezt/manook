@@ -1,0 +1,27 @@
+.signup-form {
+    margin-top: 100px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fff;
+    border:solid 1px #ddd;
+    padding:15px;
+  }
+
+.signup-form button {
+    background-color:#8356f2 ;
+    border:none;
+    width:60%;
+    margin:40px 20%;
+}
+.signup-form button:hover{
+    background-color:#9f7ef3 ;
+}
+.h1-form {
+    margin-top:30px;
+    text-align: center;
+  }
+.bottom-message{
+    text-align:center;
+    color:black;
+}

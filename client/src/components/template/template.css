@@ -1,0 +1,56 @@
+body {
+  background-color: #eee;
+  color: #373737;
+}
+/* nav.js */
+.customnav {
+  width: 100%;
+  background-color: #8356f2;
+  min-height: 60px;
+  color: white;
+  padding: 15px;
+  border-bottom: solid 1px #ddd;
+}
+.customnav ul {
+    padding-top: 10px;
+}
+.customnav ul li {
+  list-style: none;
+  display: inline-block;
+  color: white;
+  margin-right: 30px;
+}
+.customnav ul li a {
+  color: white;
+  text-decoration: none;
+}
+.logo {
+  font-size: 30px;
+  color: White;
+  font-weight: bold;
+  float: left;
+  margin-left: 40px;
+  margin-right: 100px;
+}
+.logout {
+  margin: 5px 25px;
+  float: right;
+  color: white;
+  background: #8356f2;
+  border: solid 1px white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.course-module {
+  float: left;
+  font-size: 22px;
+}
+.searchbox {
+  float: left;
+  color: white;
+  background: #8356f2;
+  border: solid 1px white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-left: 100px;
+}

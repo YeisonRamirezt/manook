@@ -1,0 +1,96 @@
+/* courses.js */
+/* -------------------------------------------------- */
+.courses-1{
+  padding-top: 50px;
+}
+.courses-2{
+  padding: 15px;
+  float: left;
+}
+.courses-2 h1{
+  font-size: 18px;
+  text-align: center;
+}
+.courses-2 img{
+  width: 80%;
+  margin:10px 10%;
+}
+.courses-2 p{
+  margin-top:20px;
+}
+.courses-2 button{
+  width: 80%;
+  margin:10px 10%;
+  color:white;
+  background: #8356f2;
+}
+
+/* course.js */
+/* -------------------------------------------------- */
+/* modules.js */
+.modules {
+  width: 22%;
+  background-color: #fff;
+  border-right: 1px #ddd solid;
+  float: left;
+  
+  min-height: 560px;
+}
+.modules::after {
+  clear: both;
+}
+.module {
+  padding: 30px 30px 40px 30px;
+  cursor: pointer;
+  border-bottom: solid 1px #ddd;
+}
+.module h5 {
+  color: #373737;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.module p {
+  color: #aaa;
+}
+.module-content {
+  width: 70%;
+  padding: 20px;
+  border-radius: 10px;
+  border: solid #aaa 1px;
+  margin-top: 20px;
+  margin-left: 25%;
+  min-height: 500px;
+}
+.module .arrow {
+  float: left;
+  color: #8356f2;
+  margin-right: 10px;
+}
+.displayNone {
+  display: none;
+}
+.displayBlock {
+  display: block;
+}
+.quizz{
+  margin:10px 50px;
+}
+/* -------------------------------------------------- */
+/* section.js */
+.section {
+  width: 70%;
+  padding: 20px;
+  margin-left: 25%;
+  min-height: 500px;
+  background-color: #fff;
+  border:solid 1px #ddd;
+}
+.section h4 {
+  margin-bottom: 30px;
+}
+.section .react-player {
+  margin-left: 10%;
+  margin-bottom: 30px;
+  width: 80%;
+}
+/* -------------------------------------------------- */
